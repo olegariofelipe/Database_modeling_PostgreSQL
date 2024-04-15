@@ -1,2 +1,2 @@
 # Database_modeling_PostgreSQL
-This is a exemple of a database modeling for a beauty products store.
+Este é um estudo de caso de modelagem de banco de dados para uma loja de produtos de beleza, onde são representados a parte de controle de estoque, vendas e pontuação.
