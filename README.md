@@ -20,11 +20,11 @@ No que diz respeito aos processos de compra e pontuação, ambos os processos pr
 
 ## Modelo Conceitual 
 Após análise do fluxo dos processos, é possível identificar as entidades e atributos necessários para a modelagem do banco de dados.
-Abaixo você encontra o **modelo conceitual**, que representa as abstrações do nosso modelo de banco de dados, representando as entidades, atributos e relacionamentos.
+Abaixo você encontra o **modelo conceitual**, que representa as abstrações do nosso modelo de banco de dados, representando as entidades, atributos e relacionamentos.<br>
 <br>
-[Colocar Imagem Aqui!]
+![Modelo Conceitual](https://github.com/olegariofelipe/Modelagem_BD_Relacional/assets/112784578/39b07b09-0908-41a1-9b8f-fcb0a05ff959)
 <br>
-Por se tratar de um projeto fictício, todos os atributos acima foram escolhidos visando atender as necessidades de negócio.
+Por se tratar de um projeto fictício, todos os atributos acima foram escolhidos visando atender as necessidades de negócio desse contexto, para uma aplicação real, é recomendado uma análise mais aprofundada das necessidades e regras de negócio.
 Abaixo você pode encontrar uma breve descrição das entidades e alguns atributos.
 
 ## Descrição de Entidades
@@ -65,22 +65,23 @@ Também registra o tipo de movimentação realizada sobre os pontos, tendo em vi
 Descreve o estoque, listando os produtos em estoque e suas respectivas quantidades, sendo assim, deve estar relacionado a produtos.
 
 ## Modelo Lógico
-A partir do modelo conceitual, foi gerado o __modelo Lógico__, onde as entidade são representadas como tabelas e os atributos como campos. Seguindo algumas regras de normalização, é possível notar na imagem abaixo, que os atributos compostos do modelo conceitual foram convertidos em tabelas separadas, isso foi feito afim de evitar muitos campos dentro de uma mesma tabela.
+A partir do modelo conceitual, foi gerado o __modelo Lógico__, onde as entidade são representadas como tabelas e os atributos como campos. Seguindo algumas regras de normalização, é possível notar na imagem abaixo, que os atributos compostos do modelo conceitual foram convertidos em tabelas separadas, isso foi feito afim de evitar muitos campos dentro de uma mesma tabela.<br>
 <br>
-[Colocar imagem aqui!]
+![Modelo Lógico](https://github.com/olegariofelipe/Modelagem_BD_Relacional/assets/112784578/c937be9a-5019-4628-9c87-046021ac1d97)
 <br>
 ## Modelo Físico
-Por fim, abaixo encontra-se o __modelo físico__, no qual são apresentados os tipos de dados para cada coluna, as relações entre tabelas, bem como as chaves primárias e estrangeiras de cada tabela.
+Por fim, abaixo encontra-se o __modelo físico__, no qual são apresentados os tipos de dados para cada coluna, as relações entre tabelas, bem como as chaves primárias e estrangeiras de cada tabela.<br>
 <br>
-[Colocar Imagem Aqui!]
+![Modelo Físico](https://github.com/olegariofelipe/Modelagem_BD_Relacional/assets/112784578/1ff1b2a3-d1ff-4986-8f11-f77b9cc1080d)
 <br>
 
 ## Ferramentas utilizadas:
  
- * [BrModel](http://www.sis4.com/brModelo/#google_vignette): Elaboração dos modelos conceitual e lógico.
- * [SQL Power Architect](https://dbmstools.com/tools/sql-power-architect): Elaboração do modelo físico.
+ * [BrModel](http://www.sis4.com/brModelo/#google_vignette): Desenvolvimento dos modelos conceitual e lógico.
+ * [SQL Power Architect](https://dbmstools.com/tools/sql-power-architect): Desenvolvimento do modelo físico.
 
 ## Autor:
+Felipe Olegario dos Santos
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olegariofelipe/)
 
 
