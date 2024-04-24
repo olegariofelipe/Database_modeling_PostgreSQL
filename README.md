@@ -81,7 +81,7 @@ Por fim, abaixo encontra-se o __modelo físico__, no qual são apresentados os t
  * [SQL Power Architect](https://dbmstools.com/tools/sql-power-architect): Desenvolvimento do modelo físico.
 
 ## Autor:
-Felipe Olegario dos Santos<br>
+Felipe Olegario dos Santos<br><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olegariofelipe/)
 
 
