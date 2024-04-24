@@ -76,13 +76,18 @@ Por fim, abaixo encontra-se o __modelo físico__, no qual são apresentados os t
 <br>
 ![Modelo Físico](https://github.com/olegariofelipe/Modelagem_BD_Relacional/assets/112784578/1ff1b2a3-d1ff-4986-8f11-f77b9cc1080d)
 <br>
+## Utilização do Projeto
+Sinta-se a vontade para utilizar e contribuir para este projeto. Nesse exemplo, a modelagem foi realizada com a finalidade de atender a LuminaCos, porém, também pode ser utilizado empresas de comércio em geral que possuam necessidades e/ou regras de negócio semelhantes. Caso necessite, os arquivos para cada modelo, bem como as imagens referentes a cada um podem ser encontrados nos diretórios abaixo:
 
-## Ferramentas utilizadas:
+* [Modelos](https://github.com/olegariofelipe/Modelagem_BD_Relacional/tree/main/Modelos) 
+* [Imagens](https://github.com/olegariofelipe/Modelagem_BD_Relacional/tree/main/Imagens)
+
+## Ferramentas utilizadas
  
  * [BrModel](http://www.sis4.com/brModelo/#google_vignette): Desenvolvimento dos modelos conceitual e lógico.
  * [SQL Power Architect](https://dbmstools.com/tools/sql-power-architect): Desenvolvimento do modelo físico.
 
-## Autor:
+## Autor
 __Felipe Olegario dos Santos__ <br><br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olegariofelipe/)
 
